@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FolsomOT",
   "resources": {
-    "hash": "sha256-VXwziu2F7HahhFJhQ32MgugkFuKiuXc5idT5ClhSWkU=",
+    "hash": "sha256-JixRjTXfX59dlINNQPbJGP3D9m5Qt1SiR3SakwlKaU8=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.93i67mqfmb.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "FolsomOT.wasm": "sha256-eUWN4ZOBp/N/dLABlj32mx/MeJQJTd0WDsQvNX9hjf0="
+      "FolsomOT.wasm": "sha256-vMkWuSJezkmB4ZYZhkQhR6xxnkhmTcg3zFp+gNWvG50="
     },
     "pdb": {
-      "FolsomOT.pdb": "sha256-QX0N8LI/3F37zCyOEfCoOiDq0CntqUFau0UdVW/yEQc="
+      "FolsomOT.pdb": "sha256-fkmxHz3XCCX7zYRKhQEEVLkZLxH6j8Iu4dSNf15tPQw="
     }
   },
   "cacheBootResources": true,
