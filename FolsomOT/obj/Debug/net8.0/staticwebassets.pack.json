@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\obj\\Debug\\net8.0\\compressed\\gyr9df6itl.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FolsomOT.styles.css",
+      "PackagePath": "staticwebassets\\FolsomOT.styles.css"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "e:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FolsomOT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FolsomOT.props",
+      "PackagePath": "build\\FolsomOT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FolsomOT.props",
+      "PackagePath": "buildMultiTargeting\\FolsomOT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FolsomOT.props",
+      "PackagePath": "buildTransitive\\FolsomOT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
