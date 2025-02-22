@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\obj\\Debug\\net8.0\\compressed\\gyr9df6itl.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FolsomOTApp.styles.css",
+      "PackagePath": "staticwebassets\\FolsomOTApp.styles.css"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Wraith\\VS Projects\\d424-software-engineering-capstone\\FolsomOT\\FolsomOTApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FolsomOTApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FolsomOTApp.props",
+      "PackagePath": "build\\FolsomOTApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FolsomOTApp.props",
+      "PackagePath": "buildMultiTargeting\\FolsomOTApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FolsomOTApp.props",
+      "PackagePath": "buildTransitive\\FolsomOTApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
