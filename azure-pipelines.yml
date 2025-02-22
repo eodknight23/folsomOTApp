@@ -7,14 +7,14 @@ trigger:
   branches:
     include:
       - main
-      - working_branch  # Adjust if needed
+      - working_branch  # Change as needed
 
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
 - task: UseDotNet@2
-  displayName: 'Install .NET'
+  displayName: 'Install .NET SDK'
   inputs:
     packageType: 'sdk'
     version: '8.0.x'
@@ -22,11 +22,12 @@ steps:
 - script: |
     dotnet restore
     dotnet build --configuration Release
-    dotnet publish -c Release -o $(Build.ArtifactStagingDirectory)
-  displayName: 'Build Blazor WebAssembly'
+    dotnet publish -c Release -o $(Build.ArtifactStagingDirectory)/wwwroot
+  displayName: 'Build and Publish Blazor WASM'
 
 - task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifacts'
+  displayName: 'Publish Artifact'
   inputs:
-    pathToPublish: '$(Build.ArtifactStagingDirectory)'
+    pathToPublish: '$(Build.ArtifactStagingDirectory)/wwwroot'
     artifactName: 'drop'
+
