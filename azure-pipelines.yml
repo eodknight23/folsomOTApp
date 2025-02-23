@@ -30,4 +30,5 @@ steps:
   inputs:
     pathToPublish: '$(Build.ArtifactStagingDirectory)/wwwroot'
     artifactName: 'drop'
+    publishLocation: 'Container'
 
