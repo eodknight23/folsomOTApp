@@ -2,10 +2,25 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    height:inherit;
+}
+
+.shade {
+    border-right: outset;
+    border-right-color: whitesmoke;
+}
+
+.out-shadow {
+    box-shadow: 7px 7px;
+}
+
+.inset-shadow {
+    box-shadow: 8px 0px 10px #0c044ee9 inset;
 }
 
 main {
-    flex: 1;
+    flex: 2;
+    flex-direction: row;
 }
 
 .sidebar {
@@ -19,6 +34,7 @@ main {
     height: 3.5rem;
     display: flex;
     align-items: center;
+    margin-left: 280px;
 }
 
     .top-row ::deep a, .top-row ::deep .btn-link {
@@ -34,10 +50,20 @@ main {
     .top-row ::deep a:first-child {
         overflow: hidden;
         text-overflow: ellipsis;
-    }
+ 
+        }
+
+.px4 {
+    padding-right: 1.5rem !important;
+    padding-left: 0 !important;
+}
 
 @media (max-width: 640.98px) {
-    .top-row {
+    .top-row:not(.auth) {
+        display: none;
+    }
+
+    .top-row.auth {
         justify-content: space-between;
     }
 
@@ -71,26 +97,7 @@ main {
     }
 
     .top-row, article {
-        padding-left: 2rem !important;
+        /*padding-left: 2rem !important;*/
         padding-right: 1.5rem !important;
     }
 }
-
-#blazor-error-ui {
-    background: lightyellow;
-    bottom: 0;
-    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
-    display: none;
-    left: 0;
-    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
-    position: fixed;
-    width: 100%;
-    z-index: 1000;
-}
-
-    #blazor-error-ui .dismiss {
-        cursor: pointer;
-        position: absolute;
-        right: 0.75rem;
-        top: 0.5rem;
-    }
