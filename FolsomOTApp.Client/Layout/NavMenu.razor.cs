@@ -1,7 +1,6 @@
-﻿namespace WoodooW.Client.Shared
-{
-    public partial class NavMenu
-    {
+﻿namespace FolsomOTApp.Layout.Client;
 
-    }
+public partial class NavMenu
+{
+
 }

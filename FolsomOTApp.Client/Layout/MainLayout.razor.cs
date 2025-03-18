@@ -1,4 +1,4 @@
-﻿namespace WoodooW.Client.Shared
+﻿namespace FolsomOTApp.Layout.Client
 {
     public partial class MainLayout
     {
