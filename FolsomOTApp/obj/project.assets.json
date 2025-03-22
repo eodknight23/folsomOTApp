@@ -4835,11 +4835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\TransferFromApplications\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOT\\FolsomOTApp\\FolsomOTApp.csproj",
+      "projectUniqueName": "E:\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOTApp\\FolsomOTApp.csproj",
       "projectName": "FolsomOTApp",
-      "projectPath": "F:\\TransferFromApplications\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOT\\FolsomOTApp\\FolsomOTApp.csproj",
+      "projectPath": "E:\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOTApp\\FolsomOTApp.csproj",
       "packagesPath": "C:\\Users\\Wraith\\.nuget\\packages\\",
-      "outputPath": "F:\\TransferFromApplications\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOT\\FolsomOTApp\\obj\\",
+      "outputPath": "E:\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOTApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4861,8 +4861,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\TransferFromApplications\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOT\\FolsomOTApp.Client\\FolsomOTApp.Client.csproj": {
-              "projectPath": "F:\\TransferFromApplications\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOT\\FolsomOTApp.Client\\FolsomOTApp.Client.csproj"
+            "E:\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOTApp.Client\\FolsomOTApp.Client.csproj": {
+              "projectPath": "E:\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOTApp.Client\\FolsomOTApp.Client.csproj"
             }
           }
         }

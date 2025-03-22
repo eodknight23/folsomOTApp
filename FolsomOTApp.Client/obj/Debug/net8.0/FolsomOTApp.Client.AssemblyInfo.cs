@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FolsomOTApp.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc6ffc41125bf066f7232b04d25e70e3dbb67ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FolsomOTApp.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FolsomOTApp.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

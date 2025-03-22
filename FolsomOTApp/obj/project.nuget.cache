@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0K5MoXZRrM8=",
+  "dgSpecHash": "pEYHbKX2lz0=",
   "success": false,
-  "projectFilePath": "F:\\TransferFromApplications\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOT\\FolsomOTApp\\FolsomOTApp.csproj",
+  "projectFilePath": "E:\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOTApp\\FolsomOTApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wraith\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Wraith\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
