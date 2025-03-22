@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKvz71i5xrA=",
+  "success": false,
+  "projectFilePath": "F:\\TransferFromApplications\\Wraith\\VS Projects\\FolsomOTApp\\FolsomOT\\FolsomOTApp.Client\\FolsomOTApp.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wraith\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
+    "C:\\Users\\Wraith\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.3\\microsoft.net.sdk.webassembly.pack.9.0.3.nupkg.sha512",
+    "C:\\Users\\Wraith\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.14\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.WebAssembly.Authentication (>= 8.0.14)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.WebAssembly (>= 8.0.14)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.WebAssembly.Authentication (>= 8.0.14)' for 'net8.0/browser-wasm'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "targetGraphs": [
+        "net8.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.WebAssembly (>= 8.0.14)' for 'net8.0/browser-wasm'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
+      "targetGraphs": [
+        "net8.0/browser-wasm"
+      ]
+    }
+  ]
+}

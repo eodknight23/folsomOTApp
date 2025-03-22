@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolsomOTApp", "FolsomOTApp\FolsomOTApp.csproj", "{2EEB67D4-029F-48AC-8675-4B09A23FFBD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolsomOTApp.Client", "FolsomOTApp.Client\FolsomOTApp.Client.csproj", "{C45164E3-C190-4F6E-9FE7-02ABE79EE05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EEB67D4-029F-48AC-8675-4B09A23FFBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEB67D4-029F-48AC-8675-4B09A23FFBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEB67D4-029F-48AC-8675-4B09A23FFBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEB67D4-029F-48AC-8675-4B09A23FFBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45164E3-C190-4F6E-9FE7-02ABE79EE05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45164E3-C190-4F6E-9FE7-02ABE79EE05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45164E3-C190-4F6E-9FE7-02ABE79EE05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45164E3-C190-4F6E-9FE7-02ABE79EE05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB0AA88-7967-41EB-BA2F-22A78D3763C8}
+	EndGlobalSection
+EndGlobal
